@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Sun Haiyang. I am currently an undergraduate student at Xinjiang University and will be pursuing my master's degree at Zhejiang University in 2026. My undergraduate GPA ranks 1 out of 128, and my CET-6 score is 554.
+My name is Haiyang Sun. I am currently an undergraduate student at Xinjiang University and will be pursuing my master's degree at Zhejiang University in 2026. My undergraduate GPA ranks 1 out of 128, and my CET-6 score is 554.
 
-My research interest includes computer vision and vision language action model.
+My research interest includes Deepfake Detection and Vision Language Action model.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -27,8 +27,8 @@ My research interest includes computer vision and vision language action model.
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- 2025.10: &nbsp;🎉🎉 Our paper [DiffMark: Diffusion-based Robust Watermark Against Deepfakes](https://arxiv.org/pdf/2507.01428) has been accepted by Information Fusion 2025.
-- 2025.09: &nbsp;🎉🎉 Our paper [Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics](https://arxiv.org/html/2508.17247) have passed first phrase of AAAI review.
+- 2025.10: &nbsp;🎉🎉 Our paper [DiffMark: Diffusion-based Robust Watermark Against Deepfakes](https://arxiv.org/pdf/2507.01428) has been accepted by [INFFUS 2025](https://www.sciencedirect.com/journal/information-fusion).
+- 2025.09: &nbsp;🎉🎉 Our paper [Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics](https://arxiv.org/html/2508.17247) has passed first phrase of [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) review.
 
 # 📝 Publications 
 
@@ -51,7 +51,7 @@ My research interest includes computer vision and vision language action model.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper/MEA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics](https://arxiv.org/html/2508.17247)
+[Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics](https://arxiv.org/abs/2508.17247)
 
 Lixin Jia\*, **Haiyang Sun**\*, Zhiqing Guo, Yunfeng Diao, Dan Ma, Gaobo Yang
 
@@ -65,7 +65,7 @@ Lixin Jia\*, **Haiyang Sun**\*, Zhiqing Guo, Yunfeng Diao, Dan Ma, Gaobo Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2025</div><img src='images/paper/diffmark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DiffMark: Diffusion-based Robust Watermark Against Deepfakes](https://arxiv.org/pdf/2507.01428)
+[DiffMark: Diffusion-based Robust Watermark Against Deepfakes](https://arxiv.org/abs/2507.01428)
 
 Chen Sun, **Haiyang Sun**, Zhiqing Guo, Yunfeng Diao, Liejun Wang, Dan Ma, Gaobo Yang, Keqin Li
 
@@ -91,4 +91,4 @@ Chen Sun, **Haiyang Sun**, Zhiqing Guo, Yunfeng Diao, Liejun Wang, Dan Ma, Gaobo
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-- 2024.06 - 2024.08, Research Intern, 北京边码软件科技有限公司, Xinjiang, China
+- 2024.06 - 2024.08, Research Intern, [北京边码软件科技有限公司](https://aiqicha.baidu.com/company_detail_98758198706310), Xinjiang, China
