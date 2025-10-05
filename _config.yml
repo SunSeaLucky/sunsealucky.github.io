@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "孙海洋 Haiyang Sun"
-description              : "Some days you bloom, some days you grow roos. Both matter."
+title                    : "Haiyang Sun 孙海洋"
+description              : "My research interest includes Deepfake Detection and Vision Language Action model."
 repository               : "sunsealucky/sunsealucky.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "孙海洋 Haiyang Sun"
+  name             : "Haiyang Sun 孙海洋"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "M.S. student at Zhejiang University"
   location         : "Zhejiang, China"
