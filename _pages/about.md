@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at Xinjiang University and will be pursuing my master's degree at Zhejiang University in 2026. My undergraduate GPA ranks 1 out of 128, and my CET-6 score is 554.
+I am currently an undergraduate student at Xinjiang University and will be pursuing my master's degree at Zhejiang University in 2026. My undergraduate GPA ranks 1 out of 128.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -54,7 +54,7 @@ I am currently an undergraduate student at Xinjiang University and will be pursu
 Lixin Jia\*, **Haiyang Sun**\*, Zhiqing Guo, Yunfeng Diao, Dan Ma, Gaobo Yang
 
 [**Project**](https://github.com/SunSeaLucky/MEA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed a new attack method to erase watermark.
+- New attacking method to erase watermark.
 </div>
 </div>
 
@@ -68,7 +68,7 @@ Lixin Jia\*, **Haiyang Sun**\*, Zhiqing Guo, Yunfeng Diao, Dan Ma, Gaobo Yang
 Chen Sun, **Haiyang Sun**, Zhiqing Guo, Yunfeng Diao, Liejun Wang, Dan Ma, Gaobo Yang, Keqin Li
 
 [**Project**](https://github.com/vpsg-research/DiffMark) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed a new way to generate robust watermark by diffusion.
+- Generate robust watermark by diffusion.
 </div>
 </div>
 
@@ -80,8 +80,8 @@ Chen Sun, **Haiyang Sun**, Zhiqing Guo, Yunfeng Diao, Liejun Wang, Dan Ma, Gaobo
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- 2026.09 - 2029.06, Master of Software Engineering, Zhejiang University, Hangzhou, China
-- 2022.09 - 2026.06, Bachelor of Computer Science, Xinjiang University, Xinjiang, China
+- 2026.09 - 2029.06, Master of Software Engineering, Zhejiang University
+- 2022.09 - 2026.06, Bachelor of Computer Science, Xinjiang University
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -89,4 +89,4 @@ Chen Sun, **Haiyang Sun**, Zhiqing Guo, Yunfeng Diao, Liejun Wang, Dan Ma, Gaobo
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-- 2024.06 - 2024.08, Research Intern, [北京边码软件科技有限公司](https://aiqicha.baidu.com/company_detail_98758198706310), Xinjiang, China
+- 2024.06 - 2024.08, [北京边码软件科技有限公司](https://aiqicha.baidu.com/company_detail_98758198706310), Xinjiang, China
